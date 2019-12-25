@@ -13,7 +13,7 @@ I'm a data scientist who likes to build things with data that are fun to use, in
 
 Tools
 
-!(Python)[/img/about/python.png "Python"]{:.icon}
+![Python](/img/about/python.png "Python"){: .icon}
 
 * Python
 * D3.js
