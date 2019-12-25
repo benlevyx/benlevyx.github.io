@@ -13,14 +13,17 @@ I'm a data scientist who likes to build things with data that are fun to use, in
 
 Tools
 
-![Python](/img/about/python.png "Python"){: .icon}
+![Python](/img/about/python.png "Python"){: .icon} Python
 
-* Python
-* D3.js
-* SQL
-* HTML/CSS
-* AWS
-* R
+![D3.js](/img/about/d3.png "D3.js"){: .icon} D3.js
+
+![SQL](/img/about/sql.jpg "SQL"){: .icon} SQL
+
+![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon} HTML/CSS/JS
+
+![AWS](/img/about/aws.svg "AWS") AWS
+
+![R](/img/about/r.png "R") R
 
 Skills
 
