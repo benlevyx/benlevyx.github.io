@@ -1,16 +1,56 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Aspiring data scientist with interests in media, politics, global health, and sustainability.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hey there! I'm Ben. Let me tell you about myself.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### What I do
 
-What else do you need?
+I'm a data scientist who likes to build things with data that are fun to use, insightful, and make people want to learn more. I'm currently pursuing a Master's of Data Science at Harvard University, based in the John A. Paulson School of Engineering and Applied Sciences, with an expected graduation in December 2020. In summer 2020, I'll be interning as a Data Scientist at Facebook in New York City.
 
-### my history
+Tools
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* Python
+* D3.js
+* SQL
+* HTML/CSS
+* AWS
+* R
+
+Skills
+
+* Regression modelling
+* Bayesian hierarchical modelling
+* Probabilistic Machine learning
+* Natural language processing
+* Web app development
+* Data visualization
+* GIS
+
+I also love working with complex, weird, and unexpected datasets that combine several types of data (quantitative, qualitative, text, geographical)
+
+### What I've done
+
+I did my undergraduate in statistics and global health, with a minor in philosophy at the University of Toronto (my hometown). While there, I competed avidly with the Hart House Debating Club, representing U of T the World University Debating Championships three times and making it to the final at the Cambridge Univeristy Debating Championships in 2018. I was also club president from 2017-2018. Also while at U of T, I was the head of the speakers team for [TEDxUofT](https://tedxuoft.com) - an independent TED conference organized by U of T students.
+
+I got my start in statistics and computer science during my undergrad. I worked with [Dr. Ludovic Rheault](https://ludovicrheault.weebly.com/) in the U of T political science department to build a natural language model that could classify the social and economic ideology of individual news articles. As I continued working with Dr. Rheault, I also took on a nutrition research project with (Dr. Daniel Roth)[https://www.sickkids.ca/AboutSickKids/Directory/People/R/Dr.%20Daniel%20Roth%20Staff%20Profile.html] at SickKids Hospital in Toronto, the manuscript for which I am hoping to publish in the coming months.
+
+### Where I've been
+
+I love travelling and exploring new places! Some highlights include:
+
+* Living and working in Brussels, Belgium at [Dalberg Data Insights](https://www.dalberg.com/what-we-do/dalberg-data-insights), summer 2019
+* Living and conducting research on non-communicable diseases among sex workers in Nairobi, Kenya
+* Debating at the World University Debating Championships in The Hague, Netherlands (2017), Mexico City (2018), and Cape Town, South Africa (2019). Also debating at Oxford and Cambridge!
+
+### Where I'm going
+
+This summer I'll be working as a Data Science intern at Facebook in New York City. In the medium-to-long-term I hope to be able to further explore my interests in data science for social good, whether that be in media/politics, sustainability, global health, or social/economic inclusion.
+
+### What else I do
+
+I've been playing guitar since I was six years old. I especially love classical/baroque guitar, fingerstyle ([video of me playing "Ocean" by John Butler](https://www.youtube.com/watch?v=VdiyNG6PGyA)), and jazz guitar.
+
+I also love debating and public speaking. Although I no longer compete, I still sometimes help coach or judge for currently-competing debaters, such as the Harvard College Debating Union. I also am a member of the speakers team for TEDxHarvardCollege.
