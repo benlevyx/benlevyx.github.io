@@ -786,3 +786,9 @@ pre {
   font-style: italic;
   font-size: 16px;
 }
+
+/* --- My styles --- */
+img.icon {
+  width: 150px;
+  height: auto;
+}
