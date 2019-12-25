@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Aspiring data scientist with interests in media, politics, global health, and sustainability.
+image: myface.jpg
 ---
 
 Hey there! I'm Ben. Let me tell you about myself.
