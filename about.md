@@ -23,7 +23,7 @@ Tools
 
 ![AWS](/img/about/aws.png "AWS"){: .icon} AWS
 
-![R](/img/about/r.png "R") R
+![R](/img/about/r.png "R"){: .icon} R
 
 Skills
 
