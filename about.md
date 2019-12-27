@@ -21,7 +21,7 @@ Tools
 
 ![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon} HTML/CSS/JS
 
-![AWS](/img/about/aws.svg "AWS") AWS
+![AWS](/img/about/aws.png "AWS") AWS
 
 ![R](/img/about/r.png "R") R
 
