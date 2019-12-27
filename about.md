@@ -35,7 +35,8 @@ Skills
 * Data visualization
 * GIS
 
-I also love working with complex, weird, and unexpected datasets that combine several types of data (quantitative, qualitative, text, geographical)
+I also love working 
+with complex, weird, and unexpected datasets that combine several types of data (quantitative, qualitative, text, geographical)
 
 ### What I've done
 
