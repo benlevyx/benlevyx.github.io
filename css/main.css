@@ -630,7 +630,6 @@ footer .theme-by {
 
 table {
   padding: 0;
-  border-collapse: collapse;
 }
 table tr {
   border-top: 1px solid #cccccc;
@@ -649,8 +648,7 @@ table tr th {
   padding: 6px 13px;
 }
 table tr td {
-  /*border: 1px solid #cccccc;*/
-  border-style : hidden!important;
+  border: 1px solid #cccccc;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
@@ -794,6 +792,30 @@ img.icon {
   width: 150px;
   height: auto;
 }
+
 table.no-border {
-  border-collapse: collapse;
+  border-collapse: collapse
+  border-style : hidden!important;
+  border: 0px;
+  text-align: center;
 }
+
+table.no-border tr {
+  border-collapse: collapse
+  border-style : hidden!important;
+  border: 0px;
+}
+
+table.no-border tr th {
+  border-collapse: collapse
+  border-style : hidden!important;
+  border: 0px;
+}
+
+table.no-border tr td {
+  border-collapse: collapse
+  border-style : hidden!important;
+  border: 0px;
+}
+
+
