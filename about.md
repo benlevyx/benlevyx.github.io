@@ -11,7 +11,7 @@ Hey there! I'm Ben. Let me tell you about myself.
 
 I'm a data scientist who likes to build things with data that are fun to use, insightful, and make people want to learn more. I'm currently pursuing a Master's of Data Science at Harvard University, based in the John A. Paulson School of Engineering and Applied Sciences, with an expected graduation in December 2020. In summer 2020, I'll be interning as a Data Scientist at Facebook in New York City.
 
-Tools
+#### Tools
 
 | **Python** | **R** | **SQL** |
 |-------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
@@ -32,7 +32,7 @@ Tools
 
 ![R](/img/about/r.png "R"){: .icon} R -->
 
-Skills
+#### Skills
 
 * Regression modelling
 * Bayesian hierarchical modelling
@@ -42,8 +42,7 @@ Skills
 * Data visualization
 * GIS
 
-I also love working 
-with complex, weird, and unexpected datasets that combine several types of data (quantitative, qualitative, text, geographical)
+I also love working with complex, weird, and unexpected datasets that combine several types of data (quantitative, qualitative, text, geographical)
 
 ### What I've done
 
