@@ -15,7 +15,7 @@ Tools
 
 | **Python** | **R** | **SQL** |
 |-------------------------------------------------------------------|-------------------------------------------|----------------------------------------------|
-| ![Python](/img/about/python.png "Python"){: .icon} | ![R](/img/about/r.png "R"){: .icon} | ![SQL](/img/about/sql.jpg "SQL"){: .icon} |
+| ![Python](/img/about/python.png "Python"){: .icon} | ![R](/img/about/r.png "R"){: .icon} | ![SQL](/img/about/sql.png "SQL"){: .icon} |
 | **HTML/CSS/JS** | **Amazon Web Services** | **D3.js** |
 | ![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon} | ![AWS](/img/about/aws.png "AWS"){: .icon} | ![D3.js](/img/about/d3.png "D3.js"){: .icon} |
 {: .no-border}
