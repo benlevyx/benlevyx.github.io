@@ -792,3 +792,6 @@ img.icon {
   width: 150px;
   height: auto;
 }
+table.no-border {
+  border-collapse: collapse;
+}
