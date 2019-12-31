@@ -13,17 +13,42 @@ I'm a data scientist who likes to build things with data that are fun to use, in
 
 Tools
 
-![Python](/img/about/python.png "Python"){: .icon} Python
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            Python
 
-![D3.js](/img/about/d3.png "D3.js"){: .icon} D3.js
+            ![Python](/img/about/python.png "Python"){: .icon}
+        </div>
+        <div class="col-md-4">
+            D3.js
 
-![SQL](/img/about/sql.jpg "SQL"){: .icon} SQL
+            ![D3.js](/img/about/d3.png "D3.js"){: .icon}
+        </div>
+        <div class="col-md-4">
+            SQL
 
-![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon} HTML/CSS/JS
+            ![SQL](/img/about/sql.jpg "SQL"){: .icon}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            HTML/CSS/Javascript
 
-![AWS](/img/about/aws.png "AWS"){: .icon} AWS
+            ![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon}
+        </div>
+        <div class="col-md-4">
+            Amazon Web Services
 
-![R](/img/about/r.png "R"){: .icon} R
+            ![AWS](/img/about/aws.png "AWS"){: .icon}
+        </div>
+        <div class="col-md-4">
+            R
+
+            ![R](/img/about/r.png "R"){: .icon}
+        </div>
+    </div>
+</div>
 
 Skills
 
