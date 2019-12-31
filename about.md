@@ -20,18 +20,6 @@ I'm a data scientist who likes to build things with data that are fun to use, in
 | ![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon} | ![AWS](/img/about/aws.png "AWS"){: .icon} | ![D3.js](/img/about/d3.png "D3.js"){: .icon} |
 {: .no-border}
 
-<!-- ![Python](/img/about/python.png "Python"){: .icon} Python
-
-![D3.js](/img/about/d3.png "D3.js"){: .icon} D3.js
-
-![SQL](/img/about/sql.jpg "SQL"){: .icon} SQL
-
-![HTML/CSS/JS](/img/about/html_css_js.png "HTML/CSS/JS"){: .icon} HTML/CSS/JS
-
-![AWS](/img/about/aws.png "AWS"){: .icon} AWS
-
-![R](/img/about/r.png "R"){: .icon} R -->
-
 #### Skills
 
 * Regression modelling
