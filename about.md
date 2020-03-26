@@ -54,4 +54,4 @@ This summer I'll be working as a Data Science intern at Facebook in New York Cit
 
 I've been playing guitar since I was six years old. I especially love classical/baroque guitar, fingerstyle ([video of me playing "Ocean" by John Butler](https://www.youtube.com/watch?v=VdiyNG6PGyA)), and jazz guitar.
 
-I also love debating and public speaking. Although I no longer compete, I still sometimes help coach or judge for currently-competing debaters, such as the Harvard College Debating Union. I also am a member of the speakers team for TEDxHarvardCollege.
+I also love debating and public speaking. Although I no longer compete, I still sometimes help coach or judge for currently-competing debaters, such as the Harvard College Debating Union.
