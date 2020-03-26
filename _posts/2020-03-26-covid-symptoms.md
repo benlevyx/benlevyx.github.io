@@ -42,7 +42,7 @@ $$
 p(H\mid D) = \frac{p(D\mid H)p(H)}{p(D)}
 $$
 
-Let me explain what this means. $$p(\cdot)$$ is a probability function (it tells us the probability of whatever is inside the parentheses), $$D$$ is our data, and $$H$$ is our hypothesis. The vertical bar '\mid ' denotes conditional probability; $$p(H\mid D)$$ should be read as "the probability of the hypothesis *given* the data."
+Let me explain what this means. $$p(\cdot)$$ is a probability function (it tells us the probability of whatever is inside the parentheses), $$D$$ is our data, and $$H$$ is our hypothesis. The vertical bar '\|' denotes conditional probability; $$p(H\mid D)$$ should be read as "the probability of the hypothesis *given* the data."
 
 A bit more terminology: $$p(H)$$ is called our *prior*, and it basically represents our belief in our hypothesis $$H$$ before we observe any data. $$p(D\mid H)$$ is called the *likelihood*, and it represents the probability of observing the data $$D$$ that we did observe if our hypothesis were in fact true. $$p(D)$$ is called the *evidence* and it represents the probability of the data we observed average over the worlds where our hypothesis is true and where it is false. Finally, $$p(H\mid D)$$ is our *posterior* and it is what we are interested in: the probability of our hypothesis being true after we observe the data.
 
