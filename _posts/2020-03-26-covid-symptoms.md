@@ -2,7 +2,7 @@
 title: I have a cough. Does that mean I have COVID-19?
 layout: post
 image: /img/covid-symptoms/covid-cdc.jpg
-header-img: /img/covid-symptoms/covid-cdc.jpg
+share-img: /img/covid-symptoms/covid-cdc.jpg
 published: true
 ---
 
