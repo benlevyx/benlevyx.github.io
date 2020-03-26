@@ -128,4 +128,11 @@
   <link rel="stylesheet" href="{{ "/css/staticman.css" | relative_url }}" />
   {% endif %}
 
+  <!-- Setting the thumbnail for a shared post -->
+  {% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+  {% endif %}
+
+<meta property="og:description" content="{{ page.subtitle }}" />
+
 </head>
