@@ -22,6 +22,7 @@ description: I make cool things with data
 navbar-links:
   About Me: "about"
   Projects: "projects"
+  Resume: "resume"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
 
